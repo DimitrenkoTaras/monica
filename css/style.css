@@ -521,7 +521,6 @@ body.lock {
 }
 
 .poducts-card__btn {
-  display: block;
   position: absolute;
   bottom: 50%;
   left: 50%;
